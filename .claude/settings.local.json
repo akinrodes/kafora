@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "Bash(command -v claude)",
+      "Read(//c/Users/toto/.npm/**)",
+      "Bash(npm root:*)",
+      "Bash(\"/c/Users/toto/.antigravity/extensions/anthropic.claude-code-2.1.86-win32-x64/resources/native-binary/claude.exe\" mcp:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)",
+      "Bash(npx skills:*)",
+      "Skill(design-md)",
+      "Skill(design-md:*)",
+      "Skill(stitch-design)",
+      "Skill(stitch-design:*)",
+      "Bash(python3 -c \":*)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:fr.pinterest.com)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Bash(\"c:/Users/toto/Desktop/MECHHAPIZZAI/RAP/v1.0.14/dashboard.html\")",
+      "Bash(grep -v \"file:///\")",
+      "Bash(head -20 grep -rn \"mode\\\\|musique\\\\|discipline\" c:/Users/toto/Desktop/MECHHAPIZZAI/RAP/v1.0.19/premium.html -i)"
+    ]
+  }
+}
